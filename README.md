@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; I’m currently learning how to use git and github, and this is a test for uploading my program.
 - 🤔 &nbsp; This program is one of my homework in Computer Organization & Machine-Dependent Programming course.
-- 💼 &nbsp; As the title said, this program is for *convert an integer number from one base to another*. 
+- 💼 &nbsp; As the title said, this program is for *converting an integer number from one base to another*. 
 - This program would ask the user for the current base, the number in that current base, and the new base to be converted to.
 
 <h3> How to run this program </h3>
