@@ -22,8 +22,9 @@
 Then you will get your new number :wink:!
 
 <h4> Note </h4>
-* A number in a base should between 2 and 36 (if you put it a larger number, I can't tell what will happen:innocent:)
-* Values from 10 - 35 will be represented by the letters A – Z
+
++ A number in a base should between 2 and 36 (if you put it a larger number, I can't tell what will happen:innocent:)
++ Values from 10 - 35 will be represented by the letters A – Z
 
 ## IF MY WORK SHOULDN'T BE PUBLIC, JUST TELL ME AND I WILL REMOVE IT!!!
 ### If you have any suggestions for my codes or algorithms, I am gladly to take your advice :kissing_heart:
