@@ -1,6 +1,6 @@
 # Hey there! I'm Xiangchen Kong 👋
-## UC Davis student
-## 🎓 Major in CS
+### UC Davis student
+### 🎓 Major in CS
 ### Contact Information:
 *email: xchkong@gmail.com*
 <h3> 👨🏻‍💻 About This Code </h3>
@@ -26,4 +26,4 @@ Then you will get your new number :wink:!
 - Values from 10 - 35 will be represented by the letters A – Z
 
 ## IF MY WORK SHOULDN'T BE PUBLIC, JUST TELL ME AND I WILL REMOVE IT!!!
-# If you have any suggestions for my codes or algorithms, I am gladly to take your advice :kissing_heart:
+### If you have any suggestions for my codes or algorithms, I am gladly to take your advice :kissing_heart:
