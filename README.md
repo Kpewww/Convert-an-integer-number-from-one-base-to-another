@@ -1,9 +1,9 @@
 # Hey there! I'm Xiangchen Kong 👋
-<h2> UC Davis student </h2>
-<h2> 🎓 Major in CS </h2>
-<h2> Contact Information: </h2>
+<h2> UC Davis student <h2>
+<h2> 🎓 Major in CS <h2>
+<h2> Contact Information: <h2>
 *email: xchkong@gmail.com*
-<h3> 👨🏻‍💻 About This Code </h3>
+<h3> 👨🏻‍💻 About This Code <h3>
 
 
 - 🔭 &nbsp; I’m currently learning how to use git and github, and this is a test for uploading my program.
