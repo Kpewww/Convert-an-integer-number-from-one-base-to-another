@@ -1,7 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory `/Users/kpew/Desktop/ECS 50/HW1/part2'
-g++ -Wall -Werror -std=c++11 -c changeOfBase.cpp -o changeOfBase.o
-g++ -Wall -Werror -std=c++11 -c functions.cpp -o functions.o
-g++ -Wall -Werror -std=c++11 changeOfBase.o functions.o -o changeOfBase
-make: Leaving directory `/Users/kpew/Desktop/ECS 50/HW1/part2'
- 
